@@ -1,0 +1,10 @@
+ipython
+jupyter
+Keras==2.2.4
+matplotlib
+music21
+numpy
+pyknon
+scipy
+tensorboard
+tensorflow
